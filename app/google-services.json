@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "822477989472",
+    "firebase_url": "https://monitorhub-16be9.firebaseio.com",
+    "project_id": "monitorhub-16be9",
+    "storage_bucket": "monitorhub-16be9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822477989472:android:f383a86873298801",
+        "android_client_info": {
+          "package_name": "com.egouvea.monitorhub.monitorhubandroidapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822477989472-ets4ogls3c8uudml5t2hharsk0j93gf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egouvea.monitorhub.monitorhubandroidapp.app",
+            "certificate_hash": "6329afff317b06035eeae119923b2017536021da"
+          }
+        },
+        {
+          "client_id": "822477989472-3lcu07abthpahi85inhi6ja2ig8toi4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7reiKo7uy_gG-1gdhy80rbhC4QHp0OxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822477989472-3lcu07abthpahi85inhi6ja2ig8toi4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
